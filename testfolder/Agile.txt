@@ -1,0 +1,20 @@
+Agile process:
+---------------
+1)what is agile ?
+
+Solution:
+         Agile is an approach development under which requirement and sloutions evolve through the collabarative effort of self
+-organizing and cross functional team and their customer/end user.
+
+
+-Both developmennt and testing actiities are concurrent unlie the wtaerfall model.
+
+
+2) What is Epic, story and task?
+
+Epic---> Defines the business needs
+(why?)
+Feature ---> Define the cutomer needs
+
+
+Story---->Defines the solutions.
