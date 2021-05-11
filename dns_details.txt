@@ -1,0 +1,190 @@
+
+Windows IP Configuration
+
+    stats.wp.com
+    ----------------------------------------
+    Record Name . . . . . : stats.wp.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 8774
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 192.0.76.3
+
+
+    apis.google.com
+    ----------------------------------------
+    Record Name . . . . . : apis.google.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 49
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : plus.l.google.com
+
+
+    www.google-analytics.com
+    ----------------------------------------
+    Record Name . . . . . : www.google-analytics.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 48
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : www-google-analytics.l.google.com
+
+
+    avatars.githubusercontent.com
+    ----------------------------------------
+    Record Name . . . . . : avatars.githubusercontent.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 680
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.109.133
+
+
+    Record Name . . . . . : avatars.githubusercontent.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 680
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.108.133
+
+
+    Record Name . . . . . : avatars.githubusercontent.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 680
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.111.133
+
+
+    Record Name . . . . . : avatars.githubusercontent.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 680
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.110.133
+
+
+    i1.wp.com
+    ----------------------------------------
+    Record Name . . . . . : i1.wp.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 4969
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 192.0.77.2
+
+
+    widgets.wp.com
+    ----------------------------------------
+    Record Name . . . . . : widgets.wp.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 3032
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 192.0.77.32
+
+
+    example.com
+    ----------------------------------------
+    Record Name . . . . . : example.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 62012
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 93.184.216.34
+
+
+    Record Name . . . . . : example.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 62012
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:2800:220:1:248:1893:25c8:1946
+
+
+    github.com
+    ----------------------------------------
+    Record Name . . . . . : github.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 31
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 13.234.210.38
+
+
+    i2.wp.com
+    ----------------------------------------
+    Record Name . . . . . : i2.wp.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 3642
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 192.0.77.2
+
+
+    teredo.ipv6.microsoft.com
+    ----------------------------------------
+    Name does not exist.
+
+
+    ocsp.digicert.com
+    ----------------------------------------
+    Record Name . . . . . : ocsp.digicert.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 709
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : cs9.wac.phicdn.net
+
+
+    s0.wp.com
+    ----------------------------------------
+    Record Name . . . . . : s0.wp.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 6616
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 192.0.77.32
+
+
+    i0.wp.com
+    ----------------------------------------
+    Record Name . . . . . : i0.wp.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 5173
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 192.0.77.2
+
+
+    pixel.wp.com
+    ----------------------------------------
+    Record Name . . . . . : pixel.wp.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 8208
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 192.0.76.3
+
+
+    stats.g.doubleclick.net
+    ----------------------------------------
+    Record Name . . . . . : stats.g.doubleclick.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 130
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : stats.l.doubleclick.net
+
+
+    ogs.google.com
+    ----------------------------------------
+    Record Name . . . . . : ogs.google.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 13
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : www3.l.google.com
+
+
